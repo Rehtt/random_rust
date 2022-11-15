@@ -61,7 +61,6 @@ pub fn rand_time(from: DateTime<Local>, to: DateTime<Local>) -> DateTime<Local> 
 #[cfg(test)]
 mod tests {
     use chrono::{Duration, Local};
-    use rand::Rng;
     use super::*;
 
     #[test]
