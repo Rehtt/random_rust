@@ -2,6 +2,11 @@
 name = "random_rust"
 version = "0.1.0"
 edition = "2021"
+description = "生成随机数据的库"
+license = "MIT"
+documentation = "https://docs.rs/random_rust"
+homepage = "https://github.com/Rehtt/random_rust"
+repository = "https://github.com/Rehtt/random_rust"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
